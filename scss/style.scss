@@ -5,7 +5,7 @@
 // Version: 2.3.5 - Last Updated: August 1, 2015
 
 // ==========================================================================
-  
+
   @import "base/_variables";
 
   @import "base/_mixins";
@@ -17,7 +17,7 @@
   @import "base/_tables";
   @import "base/_code";
   @import "base/_forms";
-  
+
   @import "base/_assets";
 
   @import "base/_grid";
@@ -40,8 +40,8 @@
   @media only screen and (min-width: $hd-breakpoint) {
     @import "_hd-styles";
   }
-  
-  // // Helpers
+
+  // Helpers
   @import "base/_helpers";
 
   // Animations

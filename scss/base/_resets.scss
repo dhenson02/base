@@ -23,5 +23,5 @@ audio:not([controls]) { display: none; height: 0; }
 [hidden], template { display: none; }
 
 // Images
-img { border: 0; }
+img { border: 0; max-width: 100%; width: auto; width: auto\9; }
 svg:not(:root) { overflow: hidden; }
